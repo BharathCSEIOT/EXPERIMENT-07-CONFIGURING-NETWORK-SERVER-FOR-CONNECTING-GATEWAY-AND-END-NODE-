@@ -23,13 +23,13 @@ Permissioned access and log-ins for network users Gateway access to the Internet
  ![image](https://github.com/vasanthkumarch/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/36288975/1bd434ca-1426-4102-8384-94473483543e)
  3. click on the add gateway 
  ![image](https://github.com/vasanthkumarch/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/36288975/47c2e08d-6598-4437-8b07-f213d6f3b8ac)
-![image](https://github.com/vasanthkumarch/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/36288975/e62ff028-99bc-485e-9808-fbb6e124f8b2)
+![WhatsApp Image 2023-10-28 at 15 52 46_56fb552d](https://github.com/BharathCSEIOT/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/122793480/7da5e5bc-d85a-4a77-b015-49cd930eb3d7)
 ![image](https://github.com/vasanthkumarch/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/36288975/a2e3ae58-6402-49e8-8f96-679059c1842c)
 4. click on the lora options , lora - frequency plan 
 5. click on channel s and create a new channel after which you can add a new end device 
-![image](https://github.com/vasanthkumarch/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/36288975/1fb72be5-e48d-4cde-a329-0cfb0d29070f)
+![WhatsApp Image 2023-10-28 at 16 14 35_0ed431da](https://github.com/BharathCSEIOT/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/122793480/1bc50b23-35ac-4da6-8e26-c696d350c2ad)
 6. add the attributesin the end device as  shown below 
- ![image](https://github.com/vasanthkumarch/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/36288975/00bff30b-42fc-42d5-9540-285d270e41cb)
+![WhatsApp Image 2023-10-28 at 16 00 19_dfc834cd](https://github.com/BharathCSEIOT/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/122793480/57caabdd-0a90-4b74-9448-2fcebec29670)
 7.using AT commands configure end device in serial port utility
 AT Commands to set initially (Mandatory)
  AT+FDR // To do factory data reset
@@ -47,8 +47,7 @@ To set APP Key
 
 
 ## OUTPUT 
-![image](https://github.com/vasanthkumarch/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/36288975/858435f2-2f59-435d-ad3f-7ecd377bd0da)
-
+![WhatsApp Image 2023-10-28 at 16 05 28_094285f6](https://github.com/BharathCSEIOT/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/122793480/8bba735d-f47e-4551-9bfe-1386be441f29)
 
 
 
